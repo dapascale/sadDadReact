@@ -1,0 +1,54 @@
+.sidebar {
+	background-color: #f1ff2f;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	width: 30%;
+	border: 3px solid #000;
+	border-radius: 4px;
+	box-shadow: 0 20px 40px rgba(0, 0, 0, 0.8);
+	padding: 15px;
+	z-index: 5;
+	position: relative;
+	right: -5px;
+}
+
+h1 {
+	text-align: center;
+	font-size: 7.5rem;
+	letter-spacing: 3px;
+	font-family: "Atma", sans-serif;
+	text-transform: uppercase;
+}
+
+.title1 {
+	display: block;
+}
+
+.title2 {
+	display: block;
+	font-family: "Creepster";
+	font-size: 8rem;
+}
+.title3 {
+	display: block;
+	font-size: 6rem;
+	letter-spacing: 1.4rem;
+}
+
+button {
+	background: none;
+	border: none;
+	cursor: pointer;
+	font-family: "Kirang Haerang", sans-serif;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	width: 100%;
+}
+
+button img {
+	width: 40%;
+}
