@@ -232,8 +232,7 @@ html {
 
 .App {
 	font-size: 2rem;
-	font-family: "Kirang Haerang", sans-serif;
-	/* font-family: "Atma", sans-serif; */
+	font-family: "Atma", sans-serif;
 	background-image: url(./assets/bgdad5.gif);
 	background-position: bottom;
 	background-size: cover;
