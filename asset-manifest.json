@@ -1,24 +1,25 @@
 {
   "files": {
-    "main.css": "/sadDadReact/static/css/main.b40222e0.chunk.css",
-    "main.js": "/sadDadReact/static/js/main.0b797b74.chunk.js",
-    "main.js.map": "/sadDadReact/static/js/main.0b797b74.chunk.js.map",
-    "runtime-main.js": "/sadDadReact/static/js/runtime-main.43275f83.js",
-    "runtime-main.js.map": "/sadDadReact/static/js/runtime-main.43275f83.js.map",
-    "static/js/2.4fbfffa7.chunk.js": "/sadDadReact/static/js/2.4fbfffa7.chunk.js",
-    "static/js/2.4fbfffa7.chunk.js.map": "/sadDadReact/static/js/2.4fbfffa7.chunk.js.map",
-    "static/js/3.13d8c254.chunk.js": "/sadDadReact/static/js/3.13d8c254.chunk.js",
-    "static/js/3.13d8c254.chunk.js.map": "/sadDadReact/static/js/3.13d8c254.chunk.js.map",
+    "main.css": "/sadDadReact/static/css/main.f1f418e8.chunk.css",
+    "main.js": "/sadDadReact/static/js/main.fbcb1af2.chunk.js",
+    "main.js.map": "/sadDadReact/static/js/main.fbcb1af2.chunk.js.map",
+    "runtime-main.js": "/sadDadReact/static/js/runtime-main.0779f6e6.js",
+    "runtime-main.js.map": "/sadDadReact/static/js/runtime-main.0779f6e6.js.map",
+    "static/js/2.a7cdfcce.chunk.js": "/sadDadReact/static/js/2.a7cdfcce.chunk.js",
+    "static/js/2.a7cdfcce.chunk.js.map": "/sadDadReact/static/js/2.a7cdfcce.chunk.js.map",
+    "static/js/3.62fc968d.chunk.js": "/sadDadReact/static/js/3.62fc968d.chunk.js",
+    "static/js/3.62fc968d.chunk.js.map": "/sadDadReact/static/js/3.62fc968d.chunk.js.map",
     "index.html": "/sadDadReact/index.html",
-    "static/css/main.b40222e0.chunk.css.map": "/sadDadReact/static/css/main.b40222e0.chunk.css.map",
-    "static/js/2.4fbfffa7.chunk.js.LICENSE.txt": "/sadDadReact/static/js/2.4fbfffa7.chunk.js.LICENSE.txt",
+    "static/css/main.f1f418e8.chunk.css.map": "/sadDadReact/static/css/main.f1f418e8.chunk.css.map",
+    "static/js/2.a7cdfcce.chunk.js.LICENSE.txt": "/sadDadReact/static/js/2.a7cdfcce.chunk.js.LICENSE.txt",
     "static/media/App.css": "/sadDadReact/static/media/bgdad5.5accf6a9.gif",
+    "static/media/manhappy1.5a94ee95.gif": "/sadDadReact/static/media/manhappy1.5a94ee95.gif",
     "static/media/mansad1.1eb3e244.gif": "/sadDadReact/static/media/mansad1.1eb3e244.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.43275f83.js",
-    "static/js/2.4fbfffa7.chunk.js",
-    "static/css/main.b40222e0.chunk.css",
-    "static/js/main.0b797b74.chunk.js"
+    "static/js/runtime-main.0779f6e6.js",
+    "static/js/2.a7cdfcce.chunk.js",
+    "static/css/main.f1f418e8.chunk.css",
+    "static/js/main.fbcb1af2.chunk.js"
   ]
 }
